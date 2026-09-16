@@ -122,4 +122,4 @@ plt.show()
 # Save the clean dataset
 df.to_csv("trade_data_cleaned.csv", index=False)
 
-print("Analysis complete! Charts and cleaned data have been saved.")
+print("Analysis complete.")
